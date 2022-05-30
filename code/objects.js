@@ -84,7 +84,9 @@ console.log(parrot);
  * Q6. Ella's favourite food is dandelion, add this information to her object
  */
 
-// console.log(tortoise);
+tortoise.favouriteFood = "dandelion";
+
+console.log(tortoise);
 
 
 
