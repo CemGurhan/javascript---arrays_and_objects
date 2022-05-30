@@ -83,9 +83,9 @@ console.log(stations);
  * Is Durham one of the stops?
  */
 
-stoppingAtDurham = null;
+stoppingAtDurham = stations.includes("Durham");
 
-// console.log(stoppingAtDurham);
+console.log(stoppingAtDurham);
 
 
 /**
